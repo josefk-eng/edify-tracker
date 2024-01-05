@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018580299384",
+    "project_id": "edify-de3fa",
+    "storage_bucket": "edify-de3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018580299384:android:88b11d687a43690d7bc78d",
+        "android_client_info": {
+          "package_name": "com.edifyprogresstracker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018580299384-6ecukpv16a72j64offub3khj1vtorbo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edifyprogresstracker.app",
+            "certificate_hash": "e3a46b08a50cfdad9e25dbdcedaf8842e8bb7cde"
+          }
+        },
+        {
+          "client_id": "1018580299384-9ckcv3722ecb69urbpcjfi9j2acq4lb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15mcAFnemJBtyyId2iJP0hFT1rdVgQU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018580299384-9ckcv3722ecb69urbpcjfi9j2acq4lb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
